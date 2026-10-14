@@ -12,8 +12,9 @@ Shared is currently in the planning stage. This repository contains product docu
 
 ## Documentation
 
-- [Product plan](docs/product-plan.md): workflows, permissions, architecture, proposed CLI, and MVP acceptance criteria.
-- [Competitive landscape](docs/competitive-landscape.md): feature matrix, positioning map, official links, and differentiation hypotheses.
+- [One-pager](documentations/one_pager.md): problem, core experience, differentiation, MVP, and validation plan.
+- [Product plan](documentations/product-plan.md): workflows, permissions, architecture, proposed CLI, and MVP acceptance criteria.
+- [Competitive landscape](documentations/competitive-landscape.md): feature matrix, positioning map, official links, and differentiation hypotheses.
 
 ## License
 
